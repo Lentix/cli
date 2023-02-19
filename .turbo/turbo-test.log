@@ -1,5 +1,0 @@
-
-> @lentix/cli@0.0.0 test /home/lentix/_Projects_/Repos/Koridore/meta-project/packages/shared/cli
-> jest --config jestconfig.json
-
- ELIFECYCLE  Test failed. See above for more details.
